@@ -12,51 +12,51 @@ joint_limits:
     min_position: -2.89
     max_position: 2.89
     has_velocity_limits: true
-    max_velocity: 2.1750
+    max_velocity: 1.0
     has_acceleration_limits: true
-    max_acceleration: 3.75
+    max_acceleration: 3.0
   panda_joint2:
     min_position: -1.76
     max_position: 1.76
     has_velocity_limits: true
-    max_velocity: 2.1750
+    max_velocity: 1.0
     has_acceleration_limits: true
-    max_acceleration: 1.875
+    max_acceleration: 3.0
   panda_joint3:
     min_position: -2.89
     max_position: 2.89
     has_velocity_limits: true
-    max_velocity: 2.1750
+    max_velocity: 1.5
     has_acceleration_limits: true
-    max_acceleration: 2.5
+    max_acceleration: 3.0
   panda_joint4:
     min_position: -3.07
     max_position: -0.07
     has_velocity_limits: true
-    max_velocity: 2.1750
+    max_velocity: 1.0
     has_acceleration_limits: true
-    max_acceleration: 3.125
+    max_acceleration: 3.0
   panda_joint5:
     min_position: -2.89
     max_position: 2.89
     has_velocity_limits: true
-    max_velocity: 2.6100
+    max_velocity: 1.5
     has_acceleration_limits: true
-    max_acceleration: 3.75
+    max_acceleration: 3.0
   panda_joint6:
     min_position: -0.01
     max_position: 3.75
     has_velocity_limits: true
-    max_velocity: 2.6100
+    max_velocity: 1.0
     has_acceleration_limits: true
-    max_acceleration: 5
+    max_acceleration: 3.0
   panda_joint7:
     min_position: -2.89
     max_position: 2.89
     has_velocity_limits: true
-    max_velocity: 2.6100
+    max_velocity: 1.5
     has_acceleration_limits: true
-    max_acceleration: 5
+    max_acceleration: 3.0
   panda_finger_joint1:
     has_velocity_limits: true
     max_velocity: 0.1

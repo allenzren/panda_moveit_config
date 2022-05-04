@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/home/allen/catkin_ws/devel/include/**",
+                "/home/allen/catkin_ws/src/Azure_Kinect_ROS_Driver/include/**",
+                "/home/allen/catkin_ws/src/ddynamic_reconfigure/include/**",
+                "/home/allen/catkin_ws/src/franka_ros/franka_control/include/**",
+                "/home/allen/catkin_ws/src/franka_ros/franka_example_controllers/include/**",
+                "/home/allen/catkin_ws/src/franka_ros/franka_gripper/include/**",
+                "/home/allen/catkin_ws/src/franka_ros/franka_hw/include/**",
+                "/home/allen/catkin_ws/src/franka_irom/include/**",
+                "/home/allen/catkin_ws/src/franka_irom_controllers/include/**",
+                "/home/allen/ws_moveit/src/moveit_grasps/include/**",
+                "/home/allen/ws_moveit/src/moveit_jog_arm/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
